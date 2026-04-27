@@ -265,6 +265,7 @@ A curated list of awesome things related to Vue 3
 - [vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
 - [Vue-Cheatsheet](https://github.com/themeselection/vue-cheatsheet) - An interactive cheatsheet of Vue, Vue Router and, Pinia
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - Vue 3 AI Agent监控系统，实时监控会话数、Tokens、长期任务 | [Demo](http://47.109.47.116/)
 ## Videos
 
 - [Evan You - State of the Vuenion 2020](https://www.youtube.com/watch?v=3COrQGxnPv0)
