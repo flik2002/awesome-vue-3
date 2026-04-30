@@ -309,4 +309,5 @@ A curated list of awesome things related to Vue 3
 - [Become a Ninja with Vue - online training (EN and FR versions)](https://vue-exercises.ninja-squad.com)
 - [Introduction to Vue 3](https://frontendmasters.com/courses/vue-3/)
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - Vue 3 AI Agent监控系统，实时监控会话数、Tokens、长期任务 | [Demo](http://47.109.47.116/)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - Vue 3 AI Agent监控系统，实时监控会话数、Tokens、长期任务 | [Demo](http://47.109.47.116/)
 - [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
